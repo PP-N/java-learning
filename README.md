@@ -1,6 +1,6 @@
 # 原项目作者：brianway
 # 原项目地址：https://github.com/brianway/java-learning
-# 我的 Java 学习笔记
+# 我的 Java 学习测试笔记
 
 旨在打造在线最佳的 Java 学习笔记，笔记内容主要是对一些基础特性和编程细节进行总结整理，适合了解 Java 基础语法，想进一步深入学习的人
 
